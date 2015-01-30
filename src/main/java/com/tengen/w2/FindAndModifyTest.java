@@ -35,6 +35,7 @@ public class FindAndModifyTest {
 
     }
 
+    //procedura atomica
     public static int getRange(String id, int range, DBCollection coll){
         DBObject doc = coll.findAndModify(
                 new BasicDBObject("_id", id), null, null, false,
