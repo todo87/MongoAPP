@@ -1,4 +1,4 @@
-package com.tengen;
+package com.tengen.w1;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
@@ -8,7 +8,6 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 /**
  * Created by Admin on 16-Jan-2015.

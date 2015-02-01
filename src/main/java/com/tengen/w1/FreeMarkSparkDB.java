@@ -1,4 +1,4 @@
-package com.tengen;
+package com.tengen.w1;
 
 import com.mongodb.*;
 import freemarker.template.Configuration;
@@ -10,8 +10,6 @@ import spark.Spark;
 
 import java.io.StringWriter;
 import java.net.UnknownHostException;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * Created by Admin on 16-Jan-2015.
